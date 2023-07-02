@@ -1,0 +1,340 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "pref_no": "01",
+      "name": "北海道",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 2,
+      "pref_no": "02",
+      "name": "青森県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 3,
+      "pref_no": "03",
+      "name": "岩手県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 4,
+      "pref_no": "04",
+      "name": "宮城県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 5,
+      "pref_no": "05",
+      "name": "秋田県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 6,
+      "pref_no": "06",
+      "name": "山形県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 7,
+      "pref_no": "07",
+      "name": "福島県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 8,
+      "pref_no": "08",
+      "name": "茨城県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 9,
+      "pref_no": "09",
+      "name": "栃木県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 10,
+      "pref_no": "10",
+      "name": "群馬県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 11,
+      "pref_no": "11",
+      "name": "埼玉県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 12,
+      "pref_no": "12",
+      "name": "千葉県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 13,
+      "pref_no": "13",
+      "name": "東京都",
+      "active": 1,
+      "order": null
+    },
+    {
+      "id": 14,
+      "pref_no": "13",
+      "name": "東京都",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 15,
+      "pref_no": "14",
+      "name": "神奈川県",
+      "active": 1,
+      "order": null
+    },
+    {
+      "id": 16,
+      "pref_no": "15",
+      "name": "新潟県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 17,
+      "pref_no": "16",
+      "name": "富山県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 18,
+      "pref_no": "17",
+      "name": "石川県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 19,
+      "pref_no": "18",
+      "name": "福井県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 20,
+      "pref_no": "19",
+      "name": "山梨県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 21,
+      "pref_no": "20",
+      "name": "長野県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 22,
+      "pref_no": "21",
+      "name": "岐阜県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 23,
+      "pref_no": "22",
+      "name": "静岡県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 24,
+      "pref_no": "23",
+      "name": "愛知県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 25,
+      "pref_no": "24",
+      "name": "三重県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 26,
+      "pref_no": "25",
+      "name": "滋賀県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 27,
+      "pref_no": "26",
+      "name": "京都府",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 28,
+      "pref_no": "27",
+      "name": "大阪府",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 29,
+      "pref_no": "28",
+      "name": "兵庫県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 30,
+      "pref_no": "29",
+      "name": "奈良県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 31,
+      "pref_no": "30",
+      "name": "和歌山県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 32,
+      "pref_no": "31",
+      "name": "鳥取県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 33,
+      "pref_no": "32",
+      "name": "島根県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 34,
+      "pref_no": "33",
+      "name": "岡山県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 35,
+      "pref_no": "34",
+      "name": "広島県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 36,
+      "pref_no": "35",
+      "name": "山口県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 37,
+      "pref_no": "36",
+      "name": "徳島県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 38,
+      "pref_no": "37",
+      "name": "香川県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 39,
+      "pref_no": "38",
+      "name": "愛媛県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 40,
+      "pref_no": "39",
+      "name": "高知県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 41,
+      "pref_no": "40",
+      "name": "福岡県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 42,
+      "pref_no": "41",
+      "name": "佐賀県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 43,
+      "pref_no": "42",
+      "name": "長崎県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 44,
+      "pref_no": "43",
+      "name": "熊本県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 45,
+      "pref_no": "44",
+      "name": "大分県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 46,
+      "pref_no": "45",
+      "name": "宮崎県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 47,
+      "pref_no": "46",
+      "name": "鹿児島県",
+      "active": 0,
+      "order": null
+    },
+    {
+      "id": 48,
+      "pref_no": "47",
+      "name": "沖縄県",
+      "active": 0,
+      "order": null
+    }
+  ]
+}
